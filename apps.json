@@ -22,6 +22,7 @@
       },
       "name": "todo",
       "title": "To-Do List",
+      "icon": "/icons/todo.png",
       "description": "Keep your life in order with a simple to-do list",
       "version": "0.0.1",
       "homepage": "http://protonet-apps.github.com/todo",
@@ -38,6 +39,7 @@
       },
       "name": "wiki",
       "title": "Wiki",
+      "icon": "/icons/wiki.png",
       "description": "Collaborate on an organized collection of pages",
       "version": "0.0.1",
       "homepage": "http://protonet-apps.github.com/wiki",
@@ -45,6 +47,23 @@
         "type": "git",
         "url": "git://github.com/protonet-apps/wiki.git"
       }
+    }
+    {
+      "author": {
+        "name": "Daniel Lamando",
+        "email": "me@danopia.net",
+        "homepage": "http://danopia.net/"
+      },
+      "name": "store",
+      "title": "App Market",
+      "icon": "/icons/store.png",
+      "description": "Find and install the latest apps for your node",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/store",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/store.git"
+      },
     }
   ]
 }
