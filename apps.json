@@ -63,7 +63,7 @@
       "repository": {
         "type": "git",
         "url": "git://github.com/protonet-apps/store.git"
-      },
+      }
     }
   ]
 }
