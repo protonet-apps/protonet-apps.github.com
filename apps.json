@@ -10,7 +10,7 @@
   "homepage": "http://protonet-apps.github.com/",
   "repository": {
     "type": "json",
-    "url": "http://protonet-apps.github.com/apps.json",
+    "url": "http://protonet-apps.github.com/apps.json"
   },
   
   "apps": [
@@ -47,7 +47,7 @@
         "type": "git",
         "url": "git://github.com/protonet-apps/wiki.git"
       }
-    }
+    },
     {
       "author": {
         "name": "Daniel Lamando",
