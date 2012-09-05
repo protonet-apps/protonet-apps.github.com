@@ -5,8 +5,8 @@
     "homepage": "http://protonet.info/"
   },
   "name": "official",
-  "title": "Official Apps",
-  "description": "Official apps created by the Protonet team and designed for your node",
+  "title": "Protonet Apps",
+  "description": "Apps created by the Protonet team and designed for your node",
   "homepage": "http://protonet-apps.github.com/",
   "repository": {
     "type": "json",
