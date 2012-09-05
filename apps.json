@@ -104,7 +104,7 @@
       },
       "name": "calendar",
       "title": "Calendar",
-      "icon": "/icons/calendar/calendar.png",
+      "icon": "calendar/calendar.png",
       "description": "Have your personal calendar accessible no matter where you are",
       "version": "0.0.1",
       "homepage": "http://protonet-apps.github.com/calendar",
