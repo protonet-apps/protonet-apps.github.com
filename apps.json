@@ -22,39 +22,104 @@
   "apps": [
     {
       "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
       },
-      "name": "todo",
-      "title": "To-Do List",
-      "icon": "todo/todo.png",
-      "description": "Keep your life in order with a simple to-do list",
+      "name": "blog",
+      "title": "Blog",
+      "icon": "blog/blog.png",
+      "description": "Keep your own weblog and let readers leave comments",
       "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/todo",
+      "homepage": "http://protonet-apps.github.com/blog",
       "repository": {
         "type": "git",
-        "url": "git://github.com/protonet-apps/todo.git"
+        "url": "git://github.com/protonet-apps/blog.git"
       }
     },
     {
       "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
       },
-      "name": "wiki",
-      "title": "Wiki",
-      "icons": {
-        "thumb": "wiki/wiki-48.png",
-        "large": "wiki/wiki-256.png"
-      },
-      "description": "Collaborate on an organized collection of pages",
+      "name": "calendar",
+      "title": "Calendar",
+      "icon": "calendar/calendar.png",
+      "description": "Have your personal calendar accessible no matter where you are",
       "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/wiki",
+      "homepage": "http://protonet-apps.github.com/calendar",
       "repository": {
         "type": "git",
-        "url": "git://github.com/protonet-apps/wiki.git"
+        "url": "git://github.com/protonet-apps/calendar.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
+      },
+      "name": "download",
+      "title": "Download",
+      "icon": "download/download.png",
+      "description": "Transfer large files to your node without any hassle",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/download",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/download.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
+      },
+      "name": "edit",
+      "title": "Edit",
+      "icon": "edit/edit.png",
+      "description": "Edit text files directly on your node",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/edit",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/edit.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
+      },
+      "name": "finance",
+      "title": "Finance",
+      "icon": "finance/finance.png",
+      "description": "Stay up to date on the latest stock market trends",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/finance",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/finance.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
+      },
+      "name": "mail",
+      "title": "Mail",
+      "icon": "mail/mail.png",
+      "description": "Link your current email account with Protonet",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/mail",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/mail.git"
       }
     },
     {
@@ -77,115 +142,11 @@
         "url": "git://github.com/protonet-apps/store.git"
       }
     },
-    
-    
     {
       "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "blog",
-      "title": "Blog",
-      "icon": "blog/blog.png",
-      "description": "Keep your own weblog and let readers leave comments",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/blog",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/blog.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "calendar",
-      "title": "Calendar",
-      "icon": "calendar/calendar.png",
-      "description": "Have your personal calendar accessible no matter where you are",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/calendar",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/calendar.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "download",
-      "title": "Download",
-      "icon": "download/download.png",
-      "description": "Transfer large files to your node without any hassle",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/download",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/download.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "edit",
-      "title": "Edit",
-      "icon": "edit/edit.png",
-      "description": "Edit text files directly on your node",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/edit",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/edit.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "finance",
-      "title": "Finance",
-      "icon": "finance/finance.png",
-      "description": "Stay up to date on the latest stock market trends",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/finance",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/finance.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
-      },
-      "name": "mail",
-      "title": "Mail",
-      "icon": "mail/mail.png",
-      "description": "Link your current email account with Protonet",
-      "version": "0.0.1",
-      "homepage": "http://protonet-apps.github.com/mail",
-      "repository": {
-        "type": "git",
-        "url": "git://github.com/protonet-apps/mail.git"
-      }
-    },
-    {
-      "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
       },
       "name": "music",
       "title": "Music",
@@ -200,9 +161,9 @@
     },
     {
       "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
       },
       "name": "office",
       "title": "Office",
@@ -217,9 +178,9 @@
     },
     {
       "author": {
-        "name": "Daniel Lamando",
-        "email": "me@danopia.net",
-        "homepage": "http://danopia.net/"
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
       },
       "name": "site",
       "title": "Site",
@@ -238,6 +199,23 @@
         "email": "me@danopia.net",
         "homepage": "http://danopia.net/"
       },
+      "name": "todo",
+      "title": "To-Do List",
+      "icon": "todo/todo.png",
+      "description": "Keep your life in order with a simple to-do list",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/todo",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/todo.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Unclaimed",
+        "email": "team@protonet.info",
+        "homepage": "http://protonet.info/"
+      },
       "name": "weather",
       "title": "Weather",
       "icon": "weather/weather.png",
@@ -247,6 +225,26 @@
       "repository": {
         "type": "git",
         "url": "git://github.com/protonet-apps/weather.git"
+      }
+    },
+    {
+      "author": {
+        "name": "Daniel Lamando",
+        "email": "me@danopia.net",
+        "homepage": "http://danopia.net/"
+      },
+      "name": "wiki",
+      "title": "Wiki",
+      "icons": {
+        "thumb": "wiki/wiki-48.png",
+        "large": "wiki/wiki-256.png"
+      },
+      "description": "Collaborate on an organized collection of pages",
+      "version": "0.0.1",
+      "homepage": "http://protonet-apps.github.com/wiki",
+      "repository": {
+        "type": "git",
+        "url": "git://github.com/protonet-apps/wiki.git"
       }
     }
   ]
